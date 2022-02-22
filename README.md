@@ -13,7 +13,7 @@
 <div size='20px'> Hi! My name is Megha. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me  width = 100px></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -59,7 +59,6 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghaanil&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Meghaanil&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
 <br>
