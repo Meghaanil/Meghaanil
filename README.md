@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://meghaanil.github.io/MA/](https://meghaanil.github.io/MA/)
+- 👨‍💻 All of my projects are available at (https://meghaanil.github.io/)
 
 - 💬 Ask me about **Something Interesting**
 
