@@ -12,7 +12,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/meghaanil2020?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmeghaanil2020&screen_name=meghaanil)
 
- <a href="https://github.com/Meghaanil/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+ <a href="https://github.com/meghaanil/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 
 <p><img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="500px"alt="SubhadeepZilong" /></p>
 
