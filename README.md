@@ -38,7 +38,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at ***[Megha Anil](https://meghaanil.github.io/)***
+- 👨‍💻 All of my projects are available in ***[this site](https://meghaanil.github.io/)***
 
 - 💬 Ask me about **Something Interesting**
 
