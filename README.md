@@ -67,13 +67,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
  <summary><b>💻 GitHub Profile Stats</b></summary>
+ 
+ [![Meghaanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghaanil)](https://github.com/Meghaanil/github-readme-stats)
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Meghaanil&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+   
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meghaanil&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Meghaanil" height="192px"/>
   <br/>
+   <p align="center">
  
   </p>
 
