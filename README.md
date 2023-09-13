@@ -1,19 +1,28 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Megha</h1>
 <h3 align="center">A Motivated Knowledge Seeker & Technical Enthusiast</h3>
 
-### Hey Dev! I'm glad that you visited me 😄
+### <p align="center">Hey Dev! I'm glad that you visited me 😄</p>
 <br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meghaanil&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+Visitor+No." alt="Profile Views">
+</p>
 
-![](https://komarev.com/ghpvc/?username=Meghaanil&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+Visitor+No.)
+<p align="center">
+  <a href="https://twitter.com/meghaanil2020" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/meghaanil2020?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow">
+  </a>
+</p>
 
 
+<p align="center">
+  <a href="https://github.com/Meghaanil/">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50">
+  </a>
+</p>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/meghaanil2020?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmeghaanil2020&screen_name=meghaanil)
-
- <a href="https://github.com/Meghaanil/"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
-
+ 
 <p><img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="500px"alt="SubhadeepZilong" /></p>
 
 
@@ -36,7 +45,7 @@
   
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **D**
 
 - 👨‍💻 All of my projects are available in ***[this site](https://meghaanil.github.io/)***
 
@@ -82,9 +91,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  
-   <a href="https://github.com/Meghaanil"><img alt="Meghaanil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Meghaanil&custom_title=Meghaanil's%20Contribution%20Graph&theme=react-dark" /></a>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+
+<a href="https://github.com/Meghaanil">
+  <img alt="Meghaanil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Meghaanil&custom_title=Meghaanil's%20Contribution%20Graph&theme=react-dark" />
+</a>
+
    
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
