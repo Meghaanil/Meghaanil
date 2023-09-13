@@ -75,13 +75,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
- <summary><b>💻 GitHub Profile Stats</b></summary>
- 
- [![Meghaanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghaanil)](https://github.com/Meghaanil/github-readme-stats)
+## 💻 GitHub Profile Stats
+
+  
+  [![Meghaanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghaanil)](https://github.com/Meghaanil/github-readme-stats)
   <br/>
   <p align="center">
-   
-<br/>
+<br>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meghaanil&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Meghaanil" height="192px"/>
   <br/>
@@ -91,14 +91,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-
-<a href="https://github.com/Meghaanil">
-  <img alt="Meghaanil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Meghaanil&custom_title=Meghaanil's%20Contribution%20Graph&theme=react-dark" />
-</a>
-
-   
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## :trophy: Git profile Trophies
 
