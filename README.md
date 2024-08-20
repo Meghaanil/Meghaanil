@@ -44,15 +44,15 @@
   
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **MEAN**
 
-- 👨‍💻 All of my projects are available in ***[this site](https://meghaanil.github.io/)***
+- 👨‍💻 All of my projects are available ***[here](https://meghaanil.github.io/)***
 
-- 💬 Ask me about **Something Interesting**
+- ☕ Turning **coffee into code ☕💻**
 
 - 📫 How to reach me **meghaanil2020@gmail.com**
 
-- ⚡ Fun fact **I don't know how to whistle**
+- ⚡ **Always learning more.**
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
 
