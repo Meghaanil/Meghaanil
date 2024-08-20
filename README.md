@@ -8,11 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Meghaanil&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+Visitor+No." alt="Profile Views">
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/meghaanil2020" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/meghaanil2020?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow">
-  </a>
-</p>
+
 
 
 <p align="center">
@@ -32,7 +28,7 @@
 
 <a href="https://www.linkedin.com/in/megha-anil-726380200" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
 <a href="https://instagram.com/_megha_anil__" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
-<a href="https://discord.gg/MEGHA ANIL#9647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="megha anil#9647" height="30" width="40" /></a><a href="https://twitter.com/meghaanil2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
+<a href="https://twitter.com/meghaanil2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 </p>
 
 
